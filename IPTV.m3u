@@ -47,13 +47,13 @@ http://103.121.36.238:8081/live/news24-24/chunks.m3u8
 #EXTINF:0,NTV
 #EXTVLCOPT:network-caching=1000
 http://103.77.252.58:8081/live/ntv/chunks.m3u8
-#EXTINF:0,Ten Sports 1
+#EXTINF:0,Sony Ten 1
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
-#EXTINF:0,Ten Sports 2
+#EXTINF:0,Sony Ten 2
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
-#EXTINF:0,Ten Sports 3
+#EXTINF:0,Sony Ten 3
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/ten3hd/chunks.m3u8
 #EXTINF:0,ESPN
@@ -167,3 +167,6 @@ http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
 #EXTINF:0,Zee Etc
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/zeeetc-32/chunks.m3u8
+#EXTINF:0,Sony Six
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live/live/six-ebx.m3u8
