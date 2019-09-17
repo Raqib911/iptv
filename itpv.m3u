@@ -1,1 +1,155 @@
 
+#EXTM3U
+#EXTINF:0,GTV
+#EXTVLCOPT:network-caching=1000
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:0,SetMAX
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/satmax-37/chunks.m3u8
+#EXTINF:0,Discovery
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/discovery-12/chunks.m3u8
+#EXTINF:0,Sony
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/sony-40/chunks.m3u8
+#EXTINF:0,Maasranga
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/maasranga/chunks.m3u8
+#EXTINF:0,Channel 24
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/channel24/chunks.m3u8
+#EXTINF:0,Star Plus
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/StarPlus/chunks.m3u8
+#EXTINF:0,Channel 9
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/channel9-15/chunks.m3u8
+#EXTINF:0,Asian TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/asiantv-bd/chunks.m3u8
+#EXTINF:0,Boishakhi TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/boishakhi-bd/chunks.m3u8
+#EXTINF:0,Ekattor TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:0,Gaanbangla
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/gaanbangla-21/chunks.m3u8
+#EXTINF:0,SATV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/satv-22/chunks.m3u8
+#EXTINF:0,Nagorik
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/nagorik/chunks.m3u8
+#EXTINF:0,News 24
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/news24-24/chunks.m3u8
+#EXTINF:0,NTV
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/ntv/chunks.m3u8
+#EXTINF:0,Ten Sports 1
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
+#EXTINF:0,Ten Sports 2
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
+#EXTINF:0,Ten Sports 3
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/ten3hd/chunks.m3u8
+#EXTINF:0,ESPN
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/espnhd/chunks.m3u8
+#EXTINF:0,Star Sports 1
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/starsports1/chunks.m3u8
+#EXTINF:0,Star Sports 2
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/starsports2/chunks.m3u8
+#EXTINF:0,Star Gold
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live/live/star-gold.m3u8
+#EXTINF:0,& Picture
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live/live/picture.m3u8
+#EXTINF:0,Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://tv.ebox.live/live/cn1.m3u8
+#EXTINF:0,ATN Bangla
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/atnbangla/chunks.m3u8
+#EXTINF:0,Bangla Vision
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/banglavision/chunks.m3u8
+#EXTINF:0,Deepto TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/deepto/chunks.m3u8
+#EXTINF:0,DBC News
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/dbc/chunks.m3u8
+#EXTINF:0,ATN News
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/atnnews-bd/chunks.m3u8
+#EXTINF:0,Channel i
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/channeli/chunks.m3u8
+#EXTINF:0,Independent TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/independent/chunks.m3u8
+#EXTINF:0,RTV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/rtv/chunks.m3u8
+#EXTINF:0,BTV World
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/btvworld/chunks.m3u8
+#EXTINF:0,Bijoy TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/bijoytv/chunks.m3u8
+#EXTINF:0,ATN Music
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/atnmusic/chunks.m3u8
+#EXTINF:0,My TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/mytv/chunks.m3u8
+#EXTINF:0,Movie Bangla
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/moviebangla/chunks.m3u8
+#EXTINF:0,Ekushey TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/ekushey/chunks.m3u8
+#EXTINF:0,Somoy TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/somoy/chunks.m3u8
+#EXTINF:0,Jamuna TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/jamuna/chunks.m3u8
+#EXTINF:0,Mohona TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/mohona/chunks.m3u8
+#EXTINF:0,Colors Bangla
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
+#EXTINF:0,Star Jalsha
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
+#EXTINF:0,Jalsha Movies
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
+#EXTINF:0,Zee Action
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zeeaction-35/chunks.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
+#EXTINF:0,ZOOM
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zoom-60/chunks.m3u8
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/hbo/chunks.m3u8
+#EXTINF:0,Daabang TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/dabang-48/chunks.m3u8
+#EXTINF:0,Masti Music
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/mastimusic-65/chunks.m3u8
