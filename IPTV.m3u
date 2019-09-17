@@ -10,7 +10,7 @@ http://103.77.252.58:8081/live/sonymax/chunks.m3u8
 http://103.121.36.238:8081/live/discovery-12/chunks.m3u8
 #EXTINF:0,Sony
 #EXTVLCOPT:network-caching=1000
-http://103.77.252.58:8081/live/SonyTV/chunks.m3u8
+http://tv.ebox.live/live/sony.m3u8
 #EXTINF:0,Maasranga
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/maasranga/chunks.m3u8
