@@ -152,3 +152,18 @@ http://103.121.36.238:8081/live/dabang-48/chunks.m3u8
 #EXTINF:0,Masti Music
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/mastimusic-65/chunks.m3u8
+#EXTINF:0,Zee Cinema
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:0,Zee Bangla Cinema
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8
+#EXTINF:0,Zee Bangla
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
+#EXTINF:0,Zee TV
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
+#EXTINF:0,Zee Etc
+#EXTVLCOPT:network-caching=1000
+http://103.121.36.238:8081/live/zeeetc-32/chunks.m3u8
