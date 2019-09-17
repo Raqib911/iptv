@@ -170,3 +170,24 @@ http://103.121.36.238:8081/live/zeeetc-32/chunks.m3u8
 #EXTINF:0,Sony Six
 #EXTVLCOPT:network-caching=1000
 http://tv.ebox.live/live/six-ebx.m3u8
+#EXTINF:0,Zing
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/zing/chunks.m3u8
+#EXTINF:0,Sony Pix
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/sonypix/chunks.m3u8
+#EXTINF:0,National Geographic Channel
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/NatGeo/chunks.m3u8
+#EXTINF:0,Star Movies
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/starmovies/chunks.m3u8
+#EXTINF:0,Desh TV
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/desh/chunks.m3u8
+#EXTINF:0,Duronto
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/duronto/chunks.m3u8
+#EXTINF:0,Sony Aath
+#EXTVLCOPT:network-caching=1000
+http://103.77.252.58:8081/live/sonyaath/chunks.m3u8
