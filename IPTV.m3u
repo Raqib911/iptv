@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,GTV
+#EXTINF:0,Gazi TV
 #EXTVLCOPT:network-caching=1000
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:0,SetMAX
