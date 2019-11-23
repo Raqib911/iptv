@@ -19,7 +19,7 @@ http://103.121.36.238:8081/live/maasranga/chunks.m3u8
 http://103.77.252.58:8081/live/channel24/chunks.m3u8
 #EXTINF:0,Star Plus
 #EXTVLCOPT:network-caching=1000
-http://103.77.252.58:8081/live/StarPlus/chunks.m3u8
+http://103.77.252.58:8081/itvhd/starplus/chunks.m3u8
 #EXTINF:0,Channel 9
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/channel9-15/chunks.m3u8
