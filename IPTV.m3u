@@ -145,7 +145,7 @@ http://103.121.36.238:8081/live/mtv-14/chunks.m3u8
 http://103.121.36.238:8081/live/zoom-60/chunks.m3u8
 #EXTINF:0,HBO
 #EXTVLCOPT:network-caching=1000
-http://103.77.252.58:8081/live/hbo/chunks.m3u8
+http://103.58.73.26/streams/111/index.m3u8
 #EXTINF:0,Daabang TV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/dabang-48/chunks.m3u8
