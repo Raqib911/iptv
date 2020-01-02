@@ -4,7 +4,7 @@
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:0,SetMAX
 #EXTVLCOPT:network-caching=1000
-http://tv.ebox.live/live/smax.m3u8
+http://103.58.73.26/streams/109/index.m3u8
 #EXTINF:0,Discovery
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/discovery-12/chunks.m3u8
