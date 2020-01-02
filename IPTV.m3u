@@ -22,7 +22,7 @@ http://103.77.252.58:8081/live/channel24/chunks.m3u8
 http://103.77.252.58:8081/itvhd/starplus/chunks.m3u8
 #EXTINF:0,Channel 9
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/channel9-15/chunks.m3u8
+http://103.58.73.26/streams/102/index.m3u8
 #EXTINF:0,Asian TV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/asiantv-bd/chunks.m3u8
@@ -121,7 +121,7 @@ http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 http://103.121.36.238:8081/live/somoy/chunks.m3u8
 #EXTINF:0,Jamuna TV
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/jamuna/chunks.m3u8
+http://103.58.73.26/streams/118/index.m3u8
 #EXTINF:0,Mohona TV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/mohona/chunks.m3u8
@@ -178,7 +178,7 @@ http://103.77.252.58:8081/live/zing/chunks.m3u8
 http://103.77.252.58:8081/live/sonypix/chunks.m3u8
 #EXTINF:0,National Geographic Channel
 #EXTVLCOPT:network-caching=1000
-http://103.77.252.58:8081/live/NatGeo/chunks.m3u8
+http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
 #EXTINF:0,Star Movies
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/starmovies/chunks.m3u8
