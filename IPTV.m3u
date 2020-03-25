@@ -10,10 +10,10 @@ http://tv.ebox.live/live/sony-max.m3u8
 http://103.121.36.238:8081/live/discovery-12/chunks.m3u8
 #EXTINF:0,Sony
 #EXTVLCOPT:network-caching=1000
-http://s2.bdiptv.design:8081/token/SonyTV/chunks.m3u8
+http://tv.ebox.live/live/sonyhd.m3u8
 #EXTINF:0,Maasranga
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/maasranga/chunks.m3u8
+http://tv.ebox.live/live/mass.m3u8
 #EXTINF:0,Channel 24
 #EXTVLCOPT:network-caching=1000
 http://118.179.92.39/hls/channel24/index.m3u8
@@ -28,13 +28,13 @@ http://103.58.73.26/streams/102/index.m3u8
 http://103.121.36.238:8081/live/asiantv-bd/chunks.m3u8
 #EXTINF:0,Boishakhi TV
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/boishakhi-bd/chunks.m3u8
+http://tv.ebox.live/live/boishakhi.m3u8
 #EXTINF:0,Ekattor TV
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/ekattor-bd/chunks.m3u8
+http://tv.ebox.live/live/ekattor1.m3u8
 #EXTINF:0,Gaanbangla
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/gaanbangla-21/chunks.m3u8
+http://tv.ebox.live/live/ekattor1.m3u8
 #EXTINF:0,SATV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/satv-22/chunks.m3u8
@@ -52,22 +52,22 @@ http://103.121.36.238:8081/live/ntv/chunks.m3u8
 http://103.121.36.238:8081/live/ten1hd/chunks.m3u8
 #EXTINF:0,Sony Ten 2
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/ten2hd/chunks.m3u8
+http://tv.ebox.live/live/sonyten-2.m3u8
 #EXTINF:0,Sony Ten 3
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/ten3hd/chunks.m3u8
+http://tv.ebox.live/live/sonyten-3.m3u8
 #EXTINF:0,ESPN
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/espnhd/chunks.m3u8
+http://tv.ebox.live/live/sonyespn.m3u8
 #EXTINF:0,Star Sports 1
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/starsports1/chunks.m3u8
+http://tv.ebox.live/live/starsports-1-hind.m3u8
 #EXTINF:0,Star Sports 2
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/starsports2/chunks.m3u8
+http://tv.ebox.live/live/starsportshd-2.m3u8
 #EXTINF:0,Star Gold
 #EXTVLCOPT:network-caching=1000
-http://s2.bdiptv.design:8081/token/StarGold/chunks.m3u8
+http://tv.ebox.live/live/star-gold.m3u8
 #EXTINF:0,& Pictures
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
@@ -76,28 +76,28 @@ http://103.121.36.238:8081/live/andpicture-26/chunks.m3u8
 http://tv.ebox.live/live/cn1.m3u8
 #EXTINF:0,ATN Bangla
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/atnbangla/chunks.m3u8
+http://tv.ebox.live/live/atnbd1.m3u8
 #EXTINF:0,Bangla Vision
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/banglavision/chunks.m3u8
+http://tv.ebox.live/live/banae3.m3u8
 #EXTINF:0,Deepto TV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/deepto/chunks.m3u8
 #EXTINF:0,DBC News
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/dbc/chunks.m3u8
+http://tv.ebox.live/live/dbc.m3u8
 #EXTINF:0,ATN News
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/atnnews-bd/chunks.m3u8
+http://tv.ebox.live/live/ex-atnae.m3u8
 #EXTINF:0,Channel i
 #EXTVLCOPT:network-caching=1000
-http://s2.bdiptv.design:8081/token/channeli/chunks.m3u8
+http://tv.ebox.live/live/chi.m3u8
 #EXTINF:0,Independent TV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/independent/chunks.m3u8
 #EXTINF:0,RTV
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/rtv/chunks.m3u8
+http://tv.ebox.live/live/rtv.m3u8
 #EXTINF:0,BTV World
 #EXTVLCOPT:network-caching=1000
 http://cdn.bdiptv.design:8081/token/btv/chunks.m3u8
@@ -121,7 +121,7 @@ http://103.121.36.238:8081/live/ekushey/chunks.m3u8
 http://103.121.36.238:8081/live/somoy/chunks.m3u8
 #EXTINF:0,Jamuna TV
 #EXTVLCOPT:network-caching=1000
-http://103.58.73.26/streams/118/index.m3u8
+http://tv.ebox.live/live/ex-jamuna.m3u8
 #EXTINF:0,Mohona TV
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/mohona/chunks.m3u8
@@ -130,10 +130,10 @@ http://103.121.36.238:8081/live/mohona/chunks.m3u8
 http://103.121.36.238:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:0,Star Jalsha
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/starjalsha/chunks.m3u8
+http://tv.ebox.live/live/star-jalsha.m3u8
 #EXTINF:0,Jalsha Movies
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/jalshamovies/chunks.m3u8
+http://tv.ebox.live/live/star-jalsha-movies.m3u8
 #EXTINF:0,Zee Action
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/zeeaction-35/chunks.m3u8
@@ -157,13 +157,13 @@ http://103.121.36.238:8081/live/mastimusic-65/chunks.m3u8
 http://tv.ebox.live/live/zee-cinema.m3u8
 #EXTINF:0,Zee Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8
+http://tv.ebox.live/live/zee-cinema-bangla.m3u8
 #EXTINF:0,Zee Bangla
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/zeebanglahd-25/chunks.m3u8
+http://tv.ebox.live/live/zee-bangla.m3u8
 #EXTINF:0,Zee TV
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/zeetv-31/chunks.m3u8
+http://tv.ebox.live/live/zee-tv.m3u8
 #EXTINF:0,Zee Etc
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/zeeetc-32/chunks.m3u8
@@ -175,7 +175,7 @@ http://tv.ebox.live/live/six-ebx.m3u8
 http://118.179.92.39/hls/Zing/index.m3u8
 #EXTINF:0,Sony Pix
 #EXTVLCOPT:network-caching=1000
-http://103.77.252.58:8081/live/sonypix/chunks.m3u8
+http://tv.ebox.live/live/sony-pix.m3u8
 #EXTINF:0,National Geographic Channel
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/natgeohd/chunks.m3u8
