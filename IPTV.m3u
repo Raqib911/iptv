@@ -4,7 +4,7 @@
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:0,SetMAX
 #EXTVLCOPT:network-caching=1000
-http://103.58.73.26/streams/109/index.m3u8
+http://tv.ebox.live/live/sony-max.m3u8
 #EXTINF:0,Discovery
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/discovery-12/chunks.m3u8
@@ -154,7 +154,7 @@ http://103.121.36.238:8081/live/dabang-48/chunks.m3u8
 http://103.121.36.238:8081/live/mastimusic-65/chunks.m3u8
 #EXTINF:0,Zee Cinema
 #EXTVLCOPT:network-caching=1000
-http://103.121.36.238:8081/live/zeecinema-34/chunks.m3u8
+http://tv.ebox.live/live/zee-cinema.m3u8
 #EXTINF:0,Zee Bangla Cinema
 #EXTVLCOPT:network-caching=1000
 http://103.121.36.238:8081/live/zeebanglacinema-33/chunks.m3u8
