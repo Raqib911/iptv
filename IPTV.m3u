@@ -19,7 +19,7 @@ http://103.121.36.238:8081/live/maasranga/chunks.m3u8
 http://118.179.92.39/hls/channel24/index.m3u8
 #EXTINF:0,Star Plus
 #EXTVLCOPT:network-caching=1000
-http://s2.bdiptv.design:8081/token/StarPlus/chunks.m3u8
+http://tv.ebox.live/live/star-plus.m3u8
 #EXTINF:0,Channel 9
 #EXTVLCOPT:network-caching=1000
 http://103.58.73.26/streams/102/index.m3u8
