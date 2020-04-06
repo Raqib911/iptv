@@ -100,6 +100,8 @@ https://streamer-1.toffeelive.com/live/zee_tv_hd_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1w5mpkwnbmmie.cloudfront.net/media_content/images/logo.png",SONY MAX HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",SONY MAX2
+http://tv.ebox.live/live/sony-max-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg",ZEE CINEMA
 https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg",BFLIX
@@ -129,6 +131,8 @@ https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 
 #MOVIES
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" ,HBO HD
+http://tv.ebox.live/live/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",SONY PIX
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",LOTUS MACAU
@@ -157,6 +161,12 @@ https://streamer-1.toffeelive.com/live/ten_3_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U0tDEWC.jpg",SONY SIX
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",STAR SPORTS 1 HD
+http://tv.ebox.live/live/starsports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",STAR SPORTS 2 HD
+http://tv.ebox.live/live/starsportshd-2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",STAR SPORTS 3
+http://tv.ebox.live/live/starsports-3.m3u8
 
 #KIDS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/msoABHA.jpg",SONY YAY!
@@ -253,9 +263,9 @@ https://streamer-1.toffeelive.com/live/arirang_720/index.m3u8
 https://streamer-1.toffeelive.com/live/ary_qtv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png",HUM MASALA
 https://streamer-1.toffeelive.com/live/hum_masala_720/index.m3u8
-#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png",SAUDI QURAN
+#EXTINF:-1#EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png",QURAN TV
 https://streamer-1.toffeelive.com/live/quran_tv_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uT41kj.png",SAUDI SUNNAH
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uT41kj.png",SUNNAH TV
 https://streamer-1.toffeelive.com/live/sunnah_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/PTV_World_logo.png",PTV WORLD
 https://streamer-1.toffeelive.com/live/ptv_world_720/index.m3u8
