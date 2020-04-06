@@ -26,6 +26,8 @@ https://streamer-1.toffeelive.com/live/somoy_tv_720/index.m3u8
 https://streamer-1.toffeelive.com/live/independent_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png",ATN BANGLA
 https://bracnet.iptv.jadoodigital.com/live/atn_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg",ATN NEWS
+https://bracnet.iptv.jadoodigital.com/live/atn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV
 https://bracnet.iptv.jadoodigital.com/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png",NTV
@@ -52,8 +54,6 @@ https://bracnet.iptv.jadoodigital.com/live/sa_tv/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/deepto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg",NAGORIK
 https://bracnet.iptv.jadoodigital.com/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg",ATN NEWS
-https://bracnet.iptv.jadoodigital.com/live/atn_news/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png",CHANNEL 24
 https://bracnet.iptv.jadoodigital.com/live/channel_24/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png",JAMUNA TV
@@ -128,11 +128,14 @@ https://bracnet.iptv.jadoodigital.com/live/star_gold/playlist.m3u8
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg",MANORANJAN TV
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg",ZEE BOLLYWOOD
+https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
+
 
 #MOVIES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" ,HBO HD
-http://tv.ebox.live/live/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg",HBO
+http://103.58.73.26/streams/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",SONY PIX
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",LOTUS MACAU
