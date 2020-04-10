@@ -4,6 +4,10 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png",BTV
 https://streamer-1.toffeelive.com/live/btv_national_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg",SANGSAD BANGLADESH
+https://bracnet.iptv.jadoodigital.com/live/sangsad_tv/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/85zyKWB.jpg",BTV WORLD
+https://streamer-1.toffeelive.com/live/btv_world_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png",CHANNEL I
 https://streamer-1.toffeelive.com/live/channel_i_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png",BOISHAKHI TV
@@ -18,8 +22,6 @@ https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 https://streamer-1.toffeelive.com/live/dbc_news_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png",ANANDA TV
 https://streamer-1.toffeelive.com/live/ananda_tv_720/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/85zyKWB.jpg",BTV WORLD
-https://streamer-1.toffeelive.com/live/btv_world_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV
 https://streamer-1.toffeelive.com/live/somoy_tv_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png",INDEPENDENT TV
@@ -135,7 +137,7 @@ https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 #MOVIES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg",HBO
-http://103.58.73.26/streams/111/index.m3u8
+http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",SONY PIX
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",LOTUS MACAU
