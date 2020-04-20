@@ -96,8 +96,6 @@ https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg",SONY
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg",SONY HD
-http://tv.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png",SONY SAB
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png",ZEE TV HD
@@ -106,8 +104,6 @@ http://103.205.133.42:1935/local/zee_tv_hd_720/chunklist.m3u8
 http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://d1w5mpkwnbmmie.cloudfront.net/media_content/images/logo.png",SONY MAX HD
 http://103.205.133.42:1935/local/set_max_hd_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg",SONY MAX2
-http://tv.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg",ZEE CINEMA
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg",ZING
@@ -120,6 +116,8 @@ http://103.205.133.42:1935/local/ntv_720/index.m3u8
 http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.colorsrishtey.com/wp-content/uploads/2019/06/05105445/rishtey-logo-2.png",COLORS RISHTEY
+https://bracnet.iptv.jadoodigital.com/live/rishtey/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg",STAR PLUS
 https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/StarPlus_logo.jpg/220px-StarPlus_logo.jpg",STAR PLUS HD
@@ -142,16 +140,8 @@ https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
 
 #MOVIES
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg",HBO
-http://103.115.159.37:8080/hbo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg",HBO HD
-http://tv.ebox.live:8080/live/hbo.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png",AXN HD
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Sony_PIX.png/120px-Sony_PIX.png",SONY PIX
 http://103.205.133.42:1935/local/sony_pix_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg",ZEE CAFE HD
-http://bolly360.xyz:80/zee.php?c=zeecafehd&e=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg",LOTUS MACAU
 https://bracnet.iptv.jadoodigital.com/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png",STAR WORLD
@@ -162,22 +152,6 @@ https://bracnet.iptv.jadoodigital.com/live/colors_infinity/playlist.m3u8
 https://bracnet.iptv.jadoodigital.com/live/comedy_central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png",MOVIES NOW
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png",MOVIES NOW HD
-http://tvserver2.roarzone.info:8081/45/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png",Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png",MBC MAX HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/MBC_2_current_logo.png",MBC 2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg",& Flix
-http://bolly360.xyz:80/zee.php?c=andflix&e=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg",& Flix HD
-http://bolly360.xyz:80/zee.php?c=andflixhd&e=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg",& Prive HD
-http://bolly360.xyz:80/zee.php?c=andprivehd&e=.m3u8
 
 #SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",SONY TEN1 HD
@@ -194,12 +168,6 @@ http://103.205.133.42:1935/local/ten_3_720/index.m3u8
 http://103.205.133.42:1935/local/sony_six_hd_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U0tDEWC.jpg",SONY SIX
 http://103.205.133.42:1935/local/sony_six_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",STAR SPORTS 1 HD
-http://tv.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",STAR SPORTS 2 HD
-http://tv.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg",STAR SPORTS 3
-http://tv.ebox.live:8080/live/starsports-3.m3u8
 
 #KIDS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/msoABHA.jpg",SONY YAY!
@@ -210,8 +178,6 @@ https://bracnet.iptv.jadoodigital.com/live/sonic/playlist.m3u8
 https://bracnet.iptv.jadoodigital.com/live/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png",NICK JR.
 https://bracnet.iptv.jadoodigital.com/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png",CARTOON NETWORK
-http://125.209.99.45:43568/BRN/CartoonNetwork.stream/chunklist_w903275600.m3u8S
 
 
 #INFORMATIVE
