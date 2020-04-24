@@ -91,13 +91,21 @@ https://bracnet.iptv.jadoodigital.com/live/colors_bangla/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/jalsha_movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg",SANGEET BANGLA
 https://bracnet.iptv.jadoodigital.com/live/sangeet_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QOadxzR.png",BANGLA TALKIES
+http://103.141.66.36/bpk-tv/10081/default/manifest.mpd
 
 #HINDI#
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg",SONY
 http://103.205.133.42:1935/local/sony_entertainment_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SET_India.jpg/100px-SET_India.jpg",SONY HD
+http://103.141.66.36/bpk-tv/10401/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png",SONY SAB
 http://103.205.133.42:1935/local/sony_sab_720/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sony_SAB_%28TV%29.png/100px-Sony_SAB_%28TV%29.png",SONY SAB HD
+http://103.141.66.36/bpk-tv/10234/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg",ZEE TV
+https://bracnet.iptv.jadoodigital.com/live/zee_tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png",ZEE TV HD
 http://103.205.133.42:1935/local/zee_tv_hd_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sony_MAX_logo.svg/60px-Sony_MAX_logo.svg.png",SONY MAX
@@ -106,12 +114,18 @@ http://103.205.133.42:1935/local/sony_max_720/chunklist.m3u8
 http://103.205.133.42:1935/local/set_max_hd_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg",ZEE CINEMA
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg",ZEE CINEMA HD
+http://103.141.66.36/bpk-tv/10430/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg",ZING
 https://bracnet.iptv.jadoodigital.com/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gocnao7.jpg",BFLIX
 http://103.205.133.42:1935/local/bflix_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AndTV_Logo.jpg/160px-AndTV_Logo.jpg",&TV
 http://103.205.133.42:1935/local/ntv_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AndTV_Logo.jpg/160px-AndTV_Logo.jpg",&TV HD
+http://103.141.66.36/bpk-tv/10182/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg",&PICTURE
+http://103.141.66.36/bpk-tv/10190/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png",ZEE ACTION
 http://103.205.133.42:1935/local/zee_action_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS HD
@@ -124,8 +138,8 @@ https://bracnet.iptv.jadoodigital.com/live/star_plus/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_plus_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Bharat_Official_Logo.jpg/220px-Star_Bharat_Official_Logo.jpg",STAR BHARAT
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lyT75II.jpg",ZEE TV
-https://bracnet.iptv.jadoodigital.com/live/zee_tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/B4U_Movies.png/160px-B4U_Movies.png",B4U MOVIES
+http://103.141.66.36/bpk-tv/10331/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Zoom%28TVchannel%29Logo.jpg",ZOOM
 https://bracnet.iptv.jadoodigital.com/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Star_Gold_Logo.jpg/220px-Star_Gold_Logo.jpg",STAR GOLD
@@ -136,6 +150,8 @@ https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
 https://bracnet.iptv.jadoodigital.com/live/manoranjan/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg",ZEE BOLLYWOOD
 https://bracnet.iptv.jadoodigital.com/live/zee_classic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png",B4U KADAK
+http://103.141.66.36/bpk-tv/10312/default/manifest.mpd
 
 
 #MOVIES
@@ -152,6 +168,10 @@ https://bracnet.iptv.jadoodigital.com/live/colors_infinity/playlist.m3u8
 https://bracnet.iptv.jadoodigital.com/live/comedy_central/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Movies_Now_logo.png/220px-Movies_Now_logo.png",MOVIES NOW
 https://bracnet.iptv.jadoodigital.com/live/movies_now/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg",ZEE CAFE
+http://103.141.66.36/bpk-tv/10229/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg",&FLIX
+http://103.141.66.36/bpk-tv/10304/default/manifest.mpd
 
 #SPORTS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png",SONY TEN1 HD
@@ -240,6 +260,8 @@ http://103.205.133.42:1935/local/dw_tv_asia_720/index.m3u8
 #MUSIC
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/B4U_Music_logo.png",B4U MUSIC
 https://bracnet.iptv.jadoodigital.com/live/b4u_music/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg",MTV BEATS
+http://103.141.66.36/bpk-tv/10178/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM
 http://103.205.133.42:1935/local/9xm_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg",9XM JALWA
