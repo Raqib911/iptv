@@ -63,6 +63,65 @@ http://tvserver.dflix.live/62/index.m3u8?token=9a7906790e68439d61a668f2922069035
 #EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/boishakhitv.jpg",BOISHAKHI TV
 http://tvserver.dflix.live/61/index.m3u8?token=c9384c5472b41383893788cc1b7e18f5c76dcc6a-f2bf76d9f574913d3c55597228ae02e0-1591220400-1591209600&remote=103.198.137.105
 
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/nagorik.png",NAGORIK TV
+http://tvserver.dflix.live/59/index.m3u8?token=d535131007a03b48a4edb289058ddd09ebf2f4ab-1f4a0b1485319d01df4fd063feec7250-1591220726-1591209926&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/mohonatv.jpg",MOHONA TV
+http://tvserver.dflix.live/50/index.m3u8?token=1721f356c61fe5f91a9c886476ff69a5d7eba9de-6140bd2e54abeea47a53542e0f4a6c52-1591220746-1591209946&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/banglatv.png",BANGLA TV
+http://tvserver.dflix.live/19/index.m3u8?token=c037d449522db97480ba223dbea93766e13f3ed1-13f51df596ecb150cc6b7c18c7f2d0ce-1591220758-1591209958&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/85.jpg",ANANDA TV
+http://tvserver.dflix.live/16/index.m3u8?token=d529f74c12dca96ca250290275ab297eb82e83ce-fd7ef56d997f97051c347ad3aaf1a587-1591220774-1591209974&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/94.jpg",ATN ISLAMIC TV
+http://tvserver.dflix.live/63/index.m3u8?token=aa0f2383162811eb1aa653783bb28cf0d03b711a-ef9c8b3463435d499c3d683d4e59537e-1591220790-1591209990&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/108.jpg",ATN NEWS
+http://tvserver.dflix.live/49/index.m3u8?token=5ac52cff0d072b93e366aec771463eb3d1bbca15-cc6eacdad806a1627f25fc6b7ca478d8-1591220810-1591210010&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/98.jpg",DESH TV
+http://tvserver.dflix.live/9/index.m3u8?token=a177210bbe5eecea895fe5e4b73fa0cbd1085730-1f461cc4f75fc4f047aabdc861dac2e6-1591220824-1591210024&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/colorsbangla.png",COLORS BANGLA
+http://tvserver.dflix.live/66/index.m3u8?token=4876f9c306c179f7e8daa20e906b4ab13d98615f-9a74d1beee9698ecf4e597fdeecc2eaa-1591221143-1591210343&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/sonyaath.png",SONY AATH
+http://tvserver.dflix.live/33/index.m3u8?token=c95f64279d807f60a5af827cba73832de63ba440-f482214d64bca0104afe3a16f2a66213-1591221160-1591210360&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/zeebangla.png",ZEE BANGLA
+http://tvserver.dflix.live/34/index.m3u8?token=613d0be5f77c9ad357af208168e782d407135323-649eaea9addb165153faf39a420fcc82-1591221176-1591210376&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/zeebanglacinema.png",ZEE BANGLA CINEMA
+http://tvserver.dflix.live/29/index.m3u8?token=4ddf7c5747452e332d56d8d9f076fb816bbe0c8f-d6e356d2d358c2115dfe26ac2b054007-1591221191-1591210391&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/starjalsha.png",STAR JALSHA
+http://tvserver.dflix.live/34/index.m3u8?token=613d0be5f77c9ad357af208168e782d407135323-649eaea9addb165153faf39a420fcc82-1591221176-1591210376&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/jalshamovies.png",JALSHA MOVIES
+http://tvserver.dflix.live/31/index.m3u8?token=5638a5c649df03f48a53c49a38d34e6b6720b832-cd7331a51203b26cb2e6aad42bff02e6-1591221226-1591210426&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/109.jpg",AKASH AATH
+http://tvserver.dflix.live/32/index.m3u8?token=fe7e0164480fefbec6816285ed2ef18538b4f69a-b19b573d9563df472e9dadad08f78f48-1591221242-1591210442&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/hbo.png",HBO
+http://tvserver.dflix.live/42/index.m3u8?token=7772abfd5a970376799df4cd853f565c30948989-0f55be0af0798658524ed46c61dd2119-1591221262-1591210462&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/andflix.png",&FLIX
+http://tvserver.dflix.live/42/index.m3u8?token=b672c8f4212edffbb269b1bb0cbe99add7adb0e0-35def78ccbc6af6e523da95fdbf593e6-1591221255-1591210455&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/sonypix.png",SONY PIX
+http://tvserver.dflix.live/41/index.m3u8?token=7a1b4d912165e3add45e4831ff0f10a911dfb5e2-a6de51a6d5277c7a92756e84e2c0310e-1591221305-1591210505&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/bbcworldnews.png",BBC WORLD NEWS
+http://tvserver.dflix.live/44/index.m3u8?token=083eaa237ee0eee28a61801bf07b4f1cce2c0d45-1c05564b42d0ecf4700a137de7592d00-1591221324-1591210524&remote=103.198.137.105
+
+
+
+
+
+
 
 
 
