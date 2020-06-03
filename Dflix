@@ -1,13 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png",GAZI TV
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/gtv.png",GAZI TV
 http://tvserver.dflix.live/1/index.m3u8?token=f2b9199e9ef339c110176c3ea4e92ca1c0f93eb0-4aec28132257aa73b005d20f0131d8e6-1591218672-1591207872&remote=103.198.137.105
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png",JAMUNA TV
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/jamunatv.png",JAMUNA TV
 http://tvserver.dflix.live/13/index.m3u8?token=7fd394bc1cc501242eea58bb84cffb38e3215a4a-f0564030e125e6f7b264219f52dbe4d8-1591218708-1591207908&remote=103.198.137.105
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png",SOMOY TV
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/somoytv.jpg",SOMOY TV
 http://tvserver.dflix.live/17/index.m3u8?token=7ac24fe731484f6078ab064c3f2de7cebfad6292-99e6b1c9fdc31f785c5bff6163daa680-1591218766-1591207966&remote=103.198.137.105
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png",CHANNEL I
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/channeli.jpg",CHANNEL I
 http://tvserver.dflix.live/6/index.m3u8?token=e4aa3562ffb757312b37e973faa88a37780b91e8-4824dd4cfdf8add8669fccbc33714a4c-1591218797-1591207997&remote=103.198.137.105
+
