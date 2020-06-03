@@ -12,3 +12,14 @@ http://tvserver.dflix.live/17/index.m3u8?token=7ac24fe731484f6078ab064c3f2de7ceb
 #EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/channeli.jpg",CHANNEL I
 http://tvserver.dflix.live/6/index.m3u8?token=e4aa3562ffb757312b37e973faa88a37780b91e8-4824dd4cfdf8add8669fccbc33714a4c-1591218797-1591207997&remote=103.198.137.105
 
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/news24.png",NEWS 24
+http://tvserver.dflix.live/18/index.m3u8?token=0aef41e4d240f0976283584dae47662b46fb76ba-4f7b89e66ceed2b179549a8c55f06fc3-1591219465-1591208665&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/etv.jpg",EKUSHEY TV
+http://tvserver.dflix.live/65/index.m3u8?token=67bae49a63f6c946fd4f8505fbdeddd6ce590d0c-c05a34ea30f810e34f62f049b575c458-1591219493-1591208693&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/channel24.png",CHANNEL 24
+http://tvserver.dflix.live/5/index.m3u8?token=d5cbaf9bbde9cfceed6e8025fedc646368e9a1ce-eea1be3e9f7ee4e3d3d4511aa3dddd85-1591219532-1591208732&remote=103.198.137.105
+
+#EXTINF:-1 tvg-logo="http://tv.dflix.live/assets/images/independent.png",INDEPENDENT TV
+http://tvserver.dflix.live/12/index.m3u8?token=48aff7aa6fd2bb2339daf4f379ba353d52c423c0-a1a36ab3f1944dfc2f5ff6fa5a056abb-1591219573-1591208773&remote=103.198.137.105
